@@ -1,9 +1,9 @@
 # teens_hub
 This project based on teenagers management
-Made using Microsoft Azure WebApp service 
-Project  details:
+Made using Microsoft Azure WebApp service.
+PROJECT DETAILS:
 Now a days teenagers are having some mental health issues and personal problems 
-Summary: 
+SUMMARY: 
 Now a days teens are engaging with internet. By this project they are gather and learns some knowledge together. This project can helping in some potential uses of a teens hub like :
 Education and learning
 Mentorship and Guidance
@@ -12,6 +12,7 @@ Health and Well-being
 Personal Development 
 Career Exploration
 The hub can offer resources, information, and mentorship programs to help teenagers explore different career paths, understand industry trends, and make informed decisions about their future. It can organize career fairs, workshops, or panel discussions with professionals from various fields.
+DEPLOYMENT STEPS:
 1.Create a new repository for the project creation on GitHub.
 2.Develope the required HTML code for the website which includes the information regarding teens hub.
 3.Link the required CSS and JS(Java Script) files to the HTML code for the better visuals of the Web App.
