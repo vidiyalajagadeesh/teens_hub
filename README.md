@@ -28,7 +28,7 @@ DEPLOYMENT STEPS:
 DEPLOYMENT URL:
 The deployed Azure Web App Service resource had the following link for Teens Hub website :
 https://teenmanagement.azurewebsites.net/
-demo video link:
+demo video link:https://youtu.be/DRPJpnSM4MY
 azure technologies: static webapp service
                     azure health bot
 screenshots:
