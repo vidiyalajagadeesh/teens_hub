@@ -31,3 +31,16 @@ https://teenmanagement.azurewebsites.net/
 demo video link:
 azure technologies: static webapp service
                     azure health bot
+screenshots:
+![2023-06-12 (2)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/2aa44e9f-bbbb-4d50-9428-3dcc331edbad)
+![2023-06-12 (3)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/5fc6e240-e959-47c4-b8f6-0beef0af5411)
+![2023-06-12 (4)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/b24e835b-8d32-4b2b-9387-a7e498833013)
+![2023-06-12 (5)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/8f73d6d9-9343-4424-949c-6f2e5e345b99)
+![2023-06-12](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/1b1d4ada-4323-46d9-a1d5-6088c543639f)
+![Screenshot (2)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/98205df5-1bf8-4a4a-af70-235378128c17)
+![Screenshot (3)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/8c454e67-8e83-463f-8c03-1523b8e0e36b)
+![Screenshot (4)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/ad2d9d35-bf13-4848-91c9-4336a4704c4d)
+![Screenshot (5)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/c0ae1fd6-5636-4a80-9ad6-b17294a6b182)
+![Screenshot (6)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/09fed41e-8020-49ff-8ec0-f09595f5e075)
+
+
