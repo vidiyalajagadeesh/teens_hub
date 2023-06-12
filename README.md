@@ -19,11 +19,15 @@ DEPLOYMENT STEPS:
 4.Upload required images to the GitHub which will be used in website.
 5.After the completion of coding in the GitHub, enable the GitHub pages of completed website.
 6.Copy the repository link to the clip board.
-7.For deploying the code on Azure, Create a new resource in the Web App service.
-8.Create free new resource using the student developer pack subscription.
-9.After creating resource, select deploying options and select deploying via external repository.
-10.Paste the GitHub repository link in the required field and hit enter.
-11.Code in the GitHub repository will be imported to Azure Web App service resource and an azure Web App will be deployed.
+7.deploying azure health bot.
+8.For deploying the code on Azure, Create a new resource in the Web App service.
+9.Create free new resource using the student developer pack subscription.
+10.After creating resource, select deploying options and select deploying via external repository.
+11.Paste the GitHub repository link in the required field and hit enter.
+12.Code in the GitHub repository will be imported to Azure Web App service resource and an azure Web App will be deployed.
 DEPLOYMENT URL:
-The deployed Azure Web App Service resource had the following link for Teens Hub website
+The deployed Azure Web App Service resource had the following link for Teens Hub website :
 https://teenmanagement.azurewebsites.net/
+demo video link:
+azure technologies: static webapp service
+                    azure health bot
