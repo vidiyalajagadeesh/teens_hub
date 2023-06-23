@@ -27,7 +27,7 @@ DEPLOYMENT STEPS:
 12.Code in the GitHub repository will be imported to Azure Web App service resource and an azure Web App will be deployed.
 DEPLOYMENT URL:
 The deployed Azure Web App Service resource had the following link for Teens Hub website :
-https://teenmanagement.azurewebsites.net/
+vidiyalajagadeesh.github.io/teens_hub/
 demo video link:https://youtu.be/DRPJpnSM4MY
 azure technologies: static webapp service
                     azure health bot
