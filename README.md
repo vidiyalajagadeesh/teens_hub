@@ -1,19 +1,19 @@
-# ✨ TEENS HUB  ✨
+# 💥 TEENS HUB 💥 
 This is a web based application developed for health based website in india.
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Project Link : https://vidiyalajagadeesh.github.io/teens_hub/    Project Demo Video Link : https://www.youtube.com/watch?v=DRPJpnSM4MY
-### Azure Technologies used for Project
+### ⭐ Azure Technologies used for Project
  - Static web apps
  - Health bot
-## Features and Functionalities :
+## ❄ Features and Functionalities :
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About , Bot services, Dropdown, Gallery , Team , Explore , Contact.
 - User is able to know about health information through the website.
 - Included the feedback Survey form to increase the scope of improvement
-## Screenshots 📸 :
+## 🌟 Screenshots 📸 :
 ### Home page - 
 ![Screenshot 2023-07-12 142608](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/8c91996c-625f-4eed-bad0-4fc54a9f627e)
 ### About Page -
@@ -29,9 +29,10 @@ Project Link : https://vidiyalajagadeesh.github.io/teens_hub/    Project Demo Vi
 ### Contact Page -
 ![Screenshot 2023-07-12 144455](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/efcb7f7b-c066-4c60-b3e5-5288f90705c4)
 
-# Tech Stack 💻
+# 💐 Tech Stack 
 
 - Azure(Hosting)
+- HTML
 - CSS
 - Bootstrap
 - JavaScript
