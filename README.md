@@ -1,9 +1,41 @@
-# teens_hub
-This project based on teenagers management
-Made using Microsoft Azure WebApp service.
-PROJECT DETAILS:
-Now a days teenagers are having some mental health issues and personal problems 
-SUMMARY: 
+# ✨ TEENS HUB  ✨
+This is a web based application developed for health based website in india.
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
+Project Link : https://vidiyalajagadeesh.github.io/teens_hub/    Project Demo Video Link : https://www.youtube.com/watch?v=DRPJpnSM4MY
+### Azure Technologies used for Project
+ - Static web apps
+ - Health bot
+## Features and Functionalities :
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About , Bot services, Dropdown, Gallery , Team , Explore , Contact.
+- User is able to know about health information through the website.
+- Included the feedback Survey form to increase the scope of improvement
+## Screenshots 📸 :
+### Home page - 
+![Screenshot 2023-07-12 142608](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/8c91996c-625f-4eed-bad0-4fc54a9f627e)
+### About Page -
+![Screenshot 2023-07-12 142549](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/32ef34c8-28f7-4334-834d-6109ccdc26ef)
+### Bot Services Page -
+![Screenshot 2023-07-12 143524](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/88353b43-ac71-46f0-a32e-024414f123aa)
+### Gallary Page -
+![Screenshot 2023-07-12 143906](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/f2676a78-e947-476c-bee5-1689d56ea11a)
+### Team Page -
+![Screenshot 2023-07-12 144143](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/52ead049-d531-45e1-bcce-d3af8443242b)
+### Explore Page -
+![Screenshot 2023-07-12 144325](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/775f2d60-0667-4517-825b-87369aeb6780)
+### Contact Page -
+![Screenshot 2023-07-12 144455](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/efcb7f7b-c066-4c60-b3e5-5288f90705c4)
+
+# Tech Stack 💻
+
+- Azure(Hosting)
+- CSS
+- Bootstrap
+- JavaScript
+### SUMMARY: 
 Now a days teens are engaging with internet. By this project they are gather and learns some knowledge together. This project can helping in some potential uses of a teens hub like :
 Education and learning
 Mentorship and Guidance
@@ -12,7 +44,7 @@ Health and Well-being
 Personal Development 
 Career Exploration
 The hub can offer resources, information, and mentorship programs to help teenagers explore different career paths, understand industry trends, and make informed decisions about their future. It can organize career fairs, workshops, or panel discussions with professionals from various fields.
-DEPLOYMENT STEPS:
+### DEPLOYMENT STEPS:
 1.Create a new repository for the project creation on GitHub.
 2.Develope the required HTML code for the website which includes the information regarding teens hub.
 3.Link the required CSS and JS(Java Script) files to the HTML code for the better visuals of the Web App.
@@ -25,21 +57,5 @@ DEPLOYMENT STEPS:
 10.After creating resource, select deploying options and select deploying via external repository.
 11.Paste the GitHub repository link in the required field and hit enter.
 12.Code in the GitHub repository will be imported to Azure Web App service resource and an azure Web App will be deployed.
-DEPLOYMENT URL:
-The deployed Azure Web App Service resource had the following link for Teens Hub website :
-vidiyalajagadeesh.github.io/teens_hub/
-demo video link:https://youtu.be/DRPJpnSM4MY
-azure technologies: static webapp service
-                    azure health bot
-screenshots:
-![2023-06-12 (2)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/2aa44e9f-bbbb-4d50-9428-3dcc331edbad)
-![2023-06-12 (4)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/b24e835b-8d32-4b2b-9387-a7e498833013)
-![2023-06-12](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/1b1d4ada-4323-46d9-a1d5-6088c543639f)
-![Screenshot (2)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/98205df5-1bf8-4a4a-af70-235378128c17)
-![Screenshot (3)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/8c454e67-8e83-463f-8c03-1523b8e0e36b)
-![Screenshot (4)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/ad2d9d35-bf13-4848-91c9-4336a4704c4d)
-![Screenshot (5)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/c0ae1fd6-5636-4a80-9ad6-b17294a6b182)
-![Screenshot (6)](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/09fed41e-8020-49ff-8ec0-f09595f5e075)
-![Screenshot 2023-06-16 172148](https://github.com/vidiyalajagadeesh/teens_hub/assets/133757327/071f2614-3592-46e4-aab7-8b6a94a914c2)
-heslth bot service
+
 
